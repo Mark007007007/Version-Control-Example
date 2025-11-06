@@ -14,7 +14,7 @@ public class Shoot : MonoBehaviour
     private GameObject _bloodSplat;
 
     [SerializeField]
-    private int GameObject _damageAmount = 20;
+    private int _damageAmount = 20;
     
     // Start is called before the first frame update
     void Start()
